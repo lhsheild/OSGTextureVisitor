@@ -38,6 +38,9 @@
     <ClCompile Include="OSGSelectFiles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FindNodeVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextureVisitor.h">
@@ -47,6 +50,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="OSGSelectFiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FindNodeVisitor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

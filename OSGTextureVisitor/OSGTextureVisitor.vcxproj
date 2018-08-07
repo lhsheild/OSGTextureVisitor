@@ -98,12 +98,14 @@
     </QtMoc>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindNodeVisitor.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="OSGSelectFiles.cpp" />
     <ClCompile Include="TextureVisitor.cpp" />
     <ClCompile Include="VertexVisitor.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FindNodeVisitor.h" />
     <ClInclude Include="OSGSelectFiles.h" />
     <ClInclude Include="TextureVisitor.h" />
     <ClInclude Include="VertexVisitor.h" />
